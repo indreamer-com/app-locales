@@ -898,6 +898,6 @@ export default {
    Add_quotation: "Add pricing to proceed",
    Incentivised_rating: "This is an incentivised rating",
    Added_to_wishlist: "Added to your wishlist!",
-   Failed_to_download: "Failed to download. Try again.",
-   Image_saved_succesfully: "Image saved successfully.",
+   Failed_to_download: "Failed to download. Try again",
+   Image_saved_succesfully: "Image saved successfully",
  };

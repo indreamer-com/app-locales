@@ -94,7 +94,7 @@
     "uploadphotos10": "الحد الأقصى: ١٠ صور",
     "Business_Location": "الموقع",
     "DONE": "حفظ",
-    "Register_popup1": "جاري إنشاء جيفي جاليري -",
+    "Register_popup1": "جاري إنشاء جيفي جاليري - ",
     "Register_popup2": "هل توافق على الشروط والسياسة؟",
     "Terms": "الشروط والسياسة",
     "CANCEL": "إلغاء",
@@ -174,9 +174,9 @@
     "Offer": "هذه البيانات؟",
     "No_location": "عذراً! لا يوجد شيء هنا.",
     "No_selection": "عذراً! لا يوجد شيء هنا.",
-    "Miles": "أميال",
-    "Reviews": "تقييمات",
-    "Loading1": "جاري التحميل . . .",
+    "Miles": " أميال",
+    "Reviews": " تقييمات",
+    "Loading1": "جاري التحميل . . . ",
     "Services": "خدمات",
     "Events": "فعاليات",
     "Doctors": "أطباء",
@@ -261,7 +261,7 @@
     "RELEASE": "تحرير",
     "Qty_with_colon": "العدد:",
     "Locked1": "مقفل",
-    "to": "إلى",
+    "to": " إلى ",
     "NoShow": "لم يحضر",
     "Cancel_notification3": "تم إلغاء الحجز!",
     "Rate": "تقييم",
@@ -515,7 +515,7 @@
     "Lead_Time": "مدة التحضير",
     "minmaxleadtime": "يجب أن يكون بين ١ و ",
     "Status_by_lead_time": "خلال مدة التحضير، ستكون هذه القطعة:",
-#N/A
+    "Days": "أيام",
     "Hours": "ساعات",
     "Minutes": "دقائق",
     "Delivered": "تم التوصيل",
@@ -898,6 +898,6 @@
     "Add_quotation": "أضف السعر للمتابعة",
     "Incentivised_rating": "هذا التقييم مدفوع/تحفيزي",
     "Added_to_wishlist": "تمت الإضافة لقائمة أمنياتكِ!",
-    "Failed_to_download": "فشل التحميل. حاولي مرة أخرى.",
-    "Image_saved_succesfully": "تم حفظ الصورة بنجاح."
+    "Failed_to_download": "فشل التحميل. حاولي مرة أخرى",
+    "Image_saved_succesfully": "تم حفظ الصورة بنجاح"
 }

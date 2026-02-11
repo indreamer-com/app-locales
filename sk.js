@@ -906,4 +906,7 @@ General: "General",
 Business1: "Business",
 Gallery: "JiffyGallery",
 Customize: "Customize",
+Taxes: "Taxes",
+Settings: "Settings",
+Galleries: "Galleries",
 };

@@ -906,4 +906,7 @@ General: "Üldine",
 Business1: "Äri",
 Gallery: "JiffyGallery",
 Customize: "Kohanda",
+Taxes: "Maksud",
+Settings: "Seaded",
+Galleries: "Galeriid",
 };

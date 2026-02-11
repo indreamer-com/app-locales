@@ -906,4 +906,7 @@ General: "عام",
 Business1: "أعمال",
 Gallery: "جيفيجاليري",
 Customize: "تخصيص",
+Taxes: "الضرائب",
+Settings: "الإعدادات",
+Galleries: "المعارض",
 };

@@ -909,4 +909,5 @@ Customize: "تخصيص",
 Taxes: "الضرائب",
 Settings: "الإعدادات",
 Galleries: "المعارض",
+Homedelivery: "توصيل للمنزل",
 };

@@ -441,8 +441,8 @@
 "Consumer": "ضيف",
 "SAVE": "حفظ",
 "No_website_found": "الموقع الإلكتروني غير متاح",
-"Home_Text1": "تسجيل الدخول إلى جيفيبوك",
-"Home_Text2": "سجل الدخول ببريدك الإلكتروني",
+"Home_Text1": "روائع التصاميم من نخبة المبدعين",
+"Home_Text2": "دخول سلس بأي حساب بريد إلكتروني",
 "Home_Text3": "سجل الدخول وابدأ الاستكشاف!",
 "Optometrist": "فحص نظر",
 "View_templates": "عرض الصور الإعلانية",
@@ -835,7 +835,7 @@
 "Remove_an_image_from_the_wishlist": "قائمة الأمنيات ممتلئة. احذفي قطعة للمتابعة.",
 "Already_added_to_wishlist": "هذا التصميم موجود بالفعل في الأمنيات!",
 "No_Wishlist": "عذراً! لا يوجد شيء هنا.",
-"Select_from_wishlist": "اختاري التصميم ثم مرري للأسفل للطلب",
+"Select_from_wishlist": "انقر للاختيار والطلب",
 "Try_again_colon": "حاولي مرة أخرى:",
 "Designs": "تصميم / تصميمات",
 "CustomAIBooking": "طلبات الذكاء الاصطناعي",
@@ -879,7 +879,7 @@
 "Pick_a_scene": "اختاري المشهد",
 "Ai_Design_Cost": "تكلفة التصميم",
 "Total": "الإجمالي",
-"countdown_text": "نصمم لكِ حلمكِ خلال دقيقة،\nبشكل لم يسبق له مثيل!",
+"countdown_text": "نصمم لكِ حلمكِ خلال دقيقة، بشكل لم يسبق له مثيل!",
 "Create_my_AiOffer": "إنشاء عرض ترويجي بالذكاء الاصطناعي",
 "This_order_is_fulfilled_by": "يتم تنفيذ هذا الطلب بواسطة:",
 "Country_of_origin": "بلد المنشأ:",
@@ -909,5 +909,7 @@
 "Taxes": "الضرائب",
 "Settings": "الإعدادات",
 "Galleries": "المعارض",
-"Homedelivery": "توصيل للمنزل"
+"Homedelivery": "توصيل للمنزل",
+"Create_my_own_design": "صممي بنفسك",
+"TRENDING": "الأكثر رواجاً⚡"
 }

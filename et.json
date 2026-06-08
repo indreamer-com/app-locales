@@ -441,8 +441,8 @@
 "Consumer": "Külaline",
 "SAVE": "SALVESTA",
 "No_website_found": "Veebisait pole saadaval",
-"Home_Text1": "Logi JiffyBooki sisse",
-"Home_Text2": "Logi sisse oma e-postiga",
+"Home_Text1": "Meistriteosed tipploojatelt.",
+"Home_Text2": "Sujuv ligipääs mis tahes e-posti kontoga.",
 "Home_Text3": "Logi sisse, et avastada!",
 "Optometrist": "Optometrist",
 "View_templates": "Vaata bännereid",
@@ -835,7 +835,7 @@
 "Remove_an_image_from_the_wishlist": "Soovide nimekiri on täis. Lisa jätkamiseks eemalda mõni üksus.",
 "Already_added_to_wishlist": "See on juba soovide nimekirjas!",
 "No_Wishlist": "Oih! Siin pole midagi.",
-"Select_from_wishlist": "Vali ja keri tellimiseks alla",
+"Select_from_wishlist": "Vajuta valimiseks ja tellimiseks",
 "Try_again_colon": "Proovi uuesti:",
 "Designs": "disain(id)",
 "CustomAIBooking": "Ai Tellimused",
@@ -879,7 +879,7 @@
 "Pick_a_scene": "Vali stseen",
 "Ai_Design_Cost": "Disaini Maksumus",
 "Total": "Kokku",
-"countdown_text": "Sinu unistuste disaini loomine vähem kui minutiga!\nNii nagu kunagi varem.",
+"countdown_text": "Sinu unistuste disaini loomine vähem kui minutiga! Nii nagu kunagi varem.",
 "Create_my_AiOffer": "Loo kampaania AI abil",
 "This_order_is_fulfilled_by": "Tellimust täidab:",
 "Country_of_origin": "Päritoluriik:",
@@ -909,5 +909,7 @@
 "Taxes": "Maksud",
 "Settings": "Seaded",
 "Galleries": "Galeriid",
-"Homedelivery": "Kojuvedu"
+"Homedelivery": "Kojuvedu",
+"Create_my_own_design": "Disaini ise",
+"TRENDING": "⚡TRENDIKAD"
 }

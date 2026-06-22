@@ -882,9 +882,9 @@
 "countdown_text": "نصمم لكِ حلمكِ خلال دقيقة، بشكل لم يسبق له مثيل!",
 "Create_my_AiOffer": "إنشاء عرض ترويجي بالذكاء الاصطناعي",
 "This_order_is_fulfilled_by": "يتم تنفيذ هذا الطلب بواسطة:",
-"Country_of_origin": "بلد المنشأ:",
-"Warranty": "الضمان:",
-"Importer": "المستورد:",
+"Country_of_origin": "بلد المنشأ",
+"Warranty": "الضمان",
+"Importer": "المستورد",
 "Click_to_open_gallery_legal": "اضغطي لقراءة الشروط والسياسات",
 "I_agree_to_the_Privacy_Policy": "أوافق على سياسة خصوصية جيفيبوك",
 "I_agree_to_the_Terms_of_Service": "أوافق على شروط جيفيبوك",
@@ -911,5 +911,8 @@
 "Galleries": "المعارض",
 "Homedelivery": "توصيل للمنزل",
 "Create_my_own_design": "صممي بنفسك",
-"TRENDING": "الأكثر رواجاً⚡"
+"TRENDING": "الأكثر رواجاً⚡",
+"CatalogName16": "اسم الكتالوج",
+"CoverPhoto916": "صورة الغلاف (٩:١٦ رأسي)",
+"CatalogDescription32": "وصف الكتالوج"
 }

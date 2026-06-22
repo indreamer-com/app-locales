@@ -882,9 +882,9 @@
 "countdown_text": "Generating your dream design within a minute, like never before!",
 "Create_my_AiOffer": "Create a promotion with Ai",
 "This_order_is_fulfilled_by": "This order is fulfilled by:",
-"Country_of_origin": "Country of origin:",
-"Warranty": "Warranty:",
-"Importer": "Importer:",
+"Country_of_origin": "Country of origin",
+"Warranty": "Warranty",
+"Importer": "Importer",
 "Click_to_open_gallery_legal": "Click to read our terms and policies",
 "I_agree_to_the_Privacy_Policy": "I agree to JiffyBook's Privacy Policy",
 "I_agree_to_the_Terms_of_Service": "I agree to JiffyBook's Terms",
@@ -911,5 +911,8 @@
 "Galleries": "Galleries",
 "Homedelivery": "Home delivery",
 "Create_my_own_design": "Create my own design",
-"TRENDING": "⚡TRENDING"
+"TRENDING": "⚡TRENDING",
+"CatalogName16": "Catalog Name (16 characters)",
+"CoverPhoto916": "Cover Photo (9:16 portrait)",
+"CatalogDescription32": "Catalog Description (32 characters)"
 }

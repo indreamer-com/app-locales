@@ -984,4 +984,5 @@ Continue_with_google: "Jätka Google'iga",
 Continue_with_Microsoft: "Jätka Microsoftiga",
 Or_Email_Credentials: "Või e-posti andmetega",
 Activate_deactivate_goldies: "Aktiivseks või inaktiivseks muuta kliendilojaalsuse süsteem",
+Print: "Prindi",
 };

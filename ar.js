@@ -985,4 +985,7 @@ Continue_with_Microsoft: "المتابعة باستخدام Microsoft",
 Or_Email_Credentials: "أو عبر البريد الإلكتروني",
 Activate_deactivate_goldies: "تفعيل أو تعطيل هيكل ولاء العملاء",
 Print: "طباعة",
+Access_Dashboard: "الانتقال إلى لوحة التحكم",
+Menu: "القائمة",
+Already_have_account_question: "لديك حساب بالفعل؟",
 };

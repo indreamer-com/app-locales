@@ -985,4 +985,7 @@ Continue_with_Microsoft: "Continue with Microsoft ",
 Or_Email_Credentials: "Or Email credentials",
 Activate_deactivate_goldies: "Activate or deactivate your customer loyalty structure",
 Print: "Print",
+Access_Dashboard: "Access Your Dashboard",
+Menu: "Menu",
+Already_have_account_question: "Already have an account?",
 };

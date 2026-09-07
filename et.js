@@ -985,4 +985,7 @@ Continue_with_Microsoft: "Jätka Microsoftiga",
 Or_Email_Credentials: "Või e-posti andmetega",
 Activate_deactivate_goldies: "Aktiivseks või inaktiivseks muuta kliendilojaalsuse süsteem",
 Print: "Prindi",
+Access_Dashboard: "Mine Oma Töölauale",
+Menu: "Menüü",
+Already_have_account_question: "Sul on juba konto?",
 };

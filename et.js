@@ -998,6 +998,7 @@ Enable_campaign_offer: "Kasuta seda pakkumist kampaania loomiseks",
 Offer_not_found: "Selle koodiga ei ole seotud ühtegi allahindlust",
 Invalid_coupon_code: "Vigane kood!",
 Something_went_wrong: "Midagi läks valesti. Palun proovi uuest.",
-Coupon_code_applied: "Allahindluskood edukalt rakendatud!",
+Coupon_code_applied: "Allahindluskood rakendatud!",
 Enter_your_text_here: "Kui soovid lisada disainile teksti, kirjuta see siia.",
+No_offers_campaign: "Loo pakkumine ja aktiveeri valik Kampaania Loomine",
 };

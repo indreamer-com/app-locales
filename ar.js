@@ -998,6 +998,7 @@ Enable_campaign_offer: "استخدام هذا العرض لإنشاء حملة �
 Offer_not_found: "لا يوجد خصم مرتبط بهذا الرمز",
 Invalid_coupon_code: "رمز غير صالح!",
 Something_went_wrong: "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
-Coupon_code_applied: "تم تطبيق رمز الخصم بنجاح!",
+Coupon_code_applied: "تم تطبيق رمز الخصم!",
 Enter_your_text_here: "إذا كنت ترغب في إضافة نص مع التصميم، اكتبه هنا.",
+No_offers_campaign: "أنشئ عرضاً ترويجياً، ثم فعّل خيار إنشاء حملة",
 };

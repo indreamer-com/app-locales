@@ -994,10 +994,11 @@
 "MaxGoldies": "Goldies Claim Limit per Order",
 "Enter_Coupon_Code": "Apply discount code",
 "Coupon_expired_or_inactive": "This code is not valid anymore",
-"Enable_campaign_offer": "Use this offer to create a campaign",
+"Enable_campaign_offer": "Campaign creation",
 "Offer_not_found": "There is no discount associated with this code",
 "Invalid_coupon_code": "Invalid code!",
 "Something_went_wrong": "Something was not right. Please try again.",
-"Coupon_code_applied": "Discount code applied successfully!",
-"Enter_your_text_here": "If you want a text together with the design, type it here."
+"Coupon_code_applied": "Discount code applied!",
+"Enter_your_text_here": "If you want a text together with the design, type it here.",
+"No_offers_campaign": "Create a promotion, and activate Campaign Creation"
 }

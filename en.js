@@ -1,8 +1,8 @@
 export default {
 Reserve_the_right_choice: "Digital space for galleries",
-Email: "Email",
-Password: "Password",
-Confirm_Password: "Repeat Password",
+Email: "Email testing",
+Password: "Password 1",
+Confirm_Password: "Repeat Password 1",
 Sign_Up: "SIGN UP",
 Log_In: "LOG IN",
 Click_on_the_verification_link_that_is_sent_to_your_registered_email_ID: "To verify email, click on the link in your email",

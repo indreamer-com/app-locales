@@ -1103,5 +1103,19 @@
 "Pearls_Crystals": "لؤلؤ وكريستال",
 "Tassels": "شرابات",
 "Beads": "خرز",
-"Pick_a_design_element": "✨ اختر عنصر التصميم"
+"Pick_a_design_element": "✨ اختر عنصر التصميم",
+"Reset": "إعادة ضبط",
+"Sale": "تخفيضات",
+"Add_Unit": "إضافة وحدة",
+"All": "الكل",
+"Failed_to_select_images": "فشل تحديد الصور",
+"Please_select_at_least_one_image_to_upload": "يرجى تحديد صورة واحدة على الأقل لتحميلها.",
+"Please_complete_all_mandatory_inputs": "يرجى إكمال جميع الحقول المطلوبة",
+"All_images_and_details_uploaded_successfully": "تم تحميل جميع الصور والتفاصيل بنجاح",
+"Failed_to_upload_images": "فشل تحميل الصور",
+"Select_Images_From_Gallery": "اختر صوراً من المعرض",
+"Upload_Custom_Images": "تحميل صور مخصصة",
+"No_images_selected_yet": "لم يتم تحديد أي صور بعد.",
+"Tap_above_to_pick_images_from_local_storage": "اضغط أعلاه لاختيار صور من ذاكرة الجهاز.",
+"Enter_cost": "إدخال التكلفة"
 }

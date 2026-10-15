@@ -593,7 +593,7 @@
 "Delivery_Stock2": "TARNI",
 "Delivery_Stock2_text": "Lõpeta tellimus",
 "Prepare_Stock2_text": "Pane tellimus valmis",
-"My_favorites": "Minu lemmikud 123",
+"My_favorites": "Minu lemmikud 1231",
 "Booking_start": "GALERII LOOMISE KUUPÄEV",
 "Search_business": "Otsi JiffyGalleryt",
 "Search": "Otsi",

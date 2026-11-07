@@ -65,8 +65,8 @@
 "Closes_at": "ساعة الإغلاق",
 "Add_success": "تمت الإضافة بنجاح!",
 "ADD_BUSINESS": "إضافة جيفيجاليري",
-"Recommendation": "تضمن اسم المكان لجعله فريداً.",
-"Note": "للمعارض ذات المواقع المتعددة، قم بإنشاء معرض لكل موقع.",
+"Recommendation": "إدخال اسم العلامة التجارية",
+"Note": " ",
 "Business_Segment": "المخطط",
 "Select": "اختر",
 "Doctor": "طبيب",
@@ -1126,5 +1126,10 @@
 "Add_Address": "إضافة العنوان",
 "Update_Delivery_Address": "تعديل عنوان التوصيل",
 "Save_Changes": "حفظ التغييرات",
-"Failed_to_update": "فشل التحديث!"
+"Failed_to_update": "فشل التحديث!",
+"MensTshirt": "تيشيرت رجالي",
+"WomensTshirt": "تيشيرت نسائي",
+"KidsTshirt": "تيشيرت للأطفال",
+"BoysTshirt": "تيشيرت للأولاد",
+"GirlsTshirt": "تيشيرت للبنات"
 }

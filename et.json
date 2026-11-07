@@ -65,8 +65,8 @@
 "Closes_at": "Sulgemisaeg",
 "Add_success": "Edukalt lisatud!",
 "ADD_BUSINESS": "LISA JIFFYGALLERY",
-"Recommendation": "Lisa koha nimi, et see oleks unikaalne.",
-"Note": "Mitme asukohaga galeriide puhul loo galerii iga asukoha jaoks.",
+"Recommendation": "Sisesta oma kaubamärgi nimi",
+"Note": " ",
 "Business_Segment": "SKEEM",
 "Select": "Vali",
 "Doctor": "Arst",
@@ -1126,5 +1126,10 @@
 "Add_Address": "Lisa Aadress",
 "Update_Delivery_Address": "Muuda tarneaadressi",
 "Save_Changes": "Salvesta Muudatused",
-"Failed_to_update": "Värskendamine ebaõnnestus!"
+"Failed_to_update": "Värskendamine ebaõnnestus!",
+"MensTshirt": "Meeste t-särk",
+"WomensTshirt": "Naiste t-särk",
+"KidsTshirt": "Laste t-särk",
+"BoysTshirt": "Poiste t-särk",
+"GirlsTshirt": "Tüdrukute t-särk"
 }

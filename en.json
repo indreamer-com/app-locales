@@ -65,8 +65,8 @@
 "Closes_at": "Closing hour",
 "Add_success": "Added successfully!",
 "ADD_BUSINESS": "ADD JIFFYGALLERY",
-"Recommendation": "Include place name to make it unique.",
-"Note": "For multi-location galleries, create a gallery for each location.",
+"Recommendation": "Enter your brand name.",
+"Note": " ",
 "Business_Segment": "SCHEMA",
 "Select": "Select",
 "Doctor": "Doctor",
@@ -1126,5 +1126,10 @@
 "Add_Address": "Add Address",
 "Update_Delivery_Address": "Modify the delivery address",
 "Save_Changes": "Save Changes",
-"Failed_to_update": "Failed to update!"
+"Failed_to_update": "Failed to update!",
+"MensTshirt": "Mens T-shirt",
+"WomensTshirt": "Womens T-shirt",
+"KidsTshirt": "Kids T-shirt",
+"BoysTshirt": "Boys T-shirt",
+"GirlsTshirt": "Girls T-shirt"
 }
